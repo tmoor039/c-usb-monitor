@@ -1,5 +1,5 @@
 # c-usb-monitor
-C program to monitor existence, additions, and removal of USB devices on Linux machines.
+C program to monitor existence, additions, and removal of USB devices on Linux machines for review/ edit pending 28 Mar 2019
 
 ## Dependencies:
 - [libudev](https://www.freedesktop.org/software/systemd/man/libudev.html)
